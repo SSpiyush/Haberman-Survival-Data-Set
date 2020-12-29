@@ -17,9 +17,9 @@ Survival status (class attribute) 1 = the patient survived 5 years or longer 2 =
 
 #How to access the code on google colab
 
-1)First step is to upload the file(real-estate-price-prediction.ipynb) on google colab.
+1)First step is to upload the file(Haberman's-Survival-Data-Set.ipynb) on google colab.
 
-2)Than upload the data(data.csv) using following command:
+2)Than upload the data(Haberman.csv) using following command:
 
 from google.colab import files
 
